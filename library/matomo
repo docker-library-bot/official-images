@@ -7,12 +7,12 @@ Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: 63bc1cfa0361154750ab9d6aa9f75cb3a11474e8
 Directory: apache
 
-Tags: 4.2.1-fpm, 4.2-fpm, 4-fpm, fpm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 63bc1cfa0361154750ab9d6aa9f75cb3a11474e8
-Directory: fpm
-
 Tags: 4.2.1-fpm-alpine, 4.2-fpm-alpine, 4-fpm-alpine, fpm-alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 GitCommit: 63bc1cfa0361154750ab9d6aa9f75cb3a11474e8
 Directory: fpm-alpine
+
+Tags: 4.2.1-fpm, 4.2-fpm, 4-fpm, fpm
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 63bc1cfa0361154750ab9d6aa9f75cb3a11474e8
+Directory: fpm
