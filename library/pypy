@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/docker-library/pypy/blob/c40535e566fdd8a081584412826c59e1fa40a256/generate-stackbrew-library.sh
+# this file is generated via https://github.com/docker-library/pypy/blob/e7036a2040d90b6f7c74337fdbe534d6d835a1e1/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
