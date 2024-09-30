@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/docker-library/httpd/blob/c87146e71508462f0ebd5de9890a0f8bb3b98c8f/generate-stackbrew-library.sh
+# this file is generated via https://github.com/docker-library/httpd/blob/bebe68a7d53cd886740d7b2196dae65a7815ec3d/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
