@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/tianon/docker-brew-cirros/blob/bc178480989db677c1271933567a0555e35856dc/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-brew-cirros/blob/79a70f4f9fd95d4089584a1e6c327f9c92abb24c/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-brew-cirros.git
