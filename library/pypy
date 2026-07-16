@@ -7,22 +7,22 @@ GitRepo: https://github.com/docker-library/pypy.git
 Tags: 3.11-7.3.23-trixie, 3.11-7.3-trixie, 3.11-7-trixie, 3.11-trixie, 3-7.3.23-trixie, 3-7.3-trixie, 3-7-trixie, 3-trixie, trixie
 SharedTags: 3.11-7.3.23, 3.11-7.3, 3.11-7, 3.11, 3-7.3.23, 3-7.3, 3-7, 3, latest
 Architectures: amd64, arm64v8, i386
-GitCommit: baf28953a93f47bdc7be45c06400cc063dd08e16
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 3.11/trixie
 
 Tags: 3.11-7.3.23-slim, 3.11-7.3-slim, 3.11-7-slim, 3.11-slim, 3-7.3.23-slim, 3-7.3-slim, 3-7-slim, 3-slim, slim, 3.11-7.3.23-slim-trixie, 3.11-7.3-slim-trixie, 3.11-7-slim-trixie, 3.11-slim-trixie, 3-7.3.23-slim-trixie, 3-7.3-slim-trixie, 3-7-slim-trixie, 3-slim-trixie, slim-trixie
 Architectures: amd64, arm64v8, i386
-GitCommit: baf28953a93f47bdc7be45c06400cc063dd08e16
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 3.11/slim-trixie
 
 Tags: 3.11-7.3.23-bookworm, 3.11-7.3-bookworm, 3.11-7-bookworm, 3.11-bookworm, 3-7.3.23-bookworm, 3-7.3-bookworm, 3-7-bookworm, 3-bookworm, bookworm
 Architectures: amd64, arm64v8, i386
-GitCommit: baf28953a93f47bdc7be45c06400cc063dd08e16
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 3.11/bookworm
 
 Tags: 3.11-7.3.23-slim-bookworm, 3.11-7.3-slim-bookworm, 3.11-7-slim-bookworm, 3.11-slim-bookworm, 3-7.3.23-slim-bookworm, 3-7.3-slim-bookworm, 3-7-slim-bookworm, 3-slim-bookworm, slim-bookworm
 Architectures: amd64, arm64v8, i386
-GitCommit: baf28953a93f47bdc7be45c06400cc063dd08e16
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 3.11/slim-bookworm
 
 Tags: 3.11-7.3.23-windowsservercore-ltsc2025, 3.11-7.3-windowsservercore-ltsc2025, 3.11-7-windowsservercore-ltsc2025, 3.11-windowsservercore-ltsc2025, 3-7.3.23-windowsservercore-ltsc2025, 3-7.3-windowsservercore-ltsc2025, 3-7-windowsservercore-ltsc2025, 3-windowsservercore-ltsc2025, windowsservercore-ltsc2025
@@ -42,22 +42,22 @@ Constraints: windowsservercore-ltsc2022
 Tags: 2.7-7.3.23-trixie, 2.7-7.3-trixie, 2.7-7-trixie, 2.7-trixie, 2-7.3.23-trixie, 2-7.3-trixie, 2-7-trixie, 2-trixie
 SharedTags: 2.7-7.3.23, 2.7-7.3, 2.7-7, 2.7, 2-7.3.23, 2-7.3, 2-7, 2
 Architectures: amd64, arm64v8, i386
-GitCommit: 2f108c64176189af6bcc930adfd6052ad98201a2
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 2.7/trixie
 
 Tags: 2.7-7.3.23-slim, 2.7-7.3-slim, 2.7-7-slim, 2.7-slim, 2-7.3.23-slim, 2-7.3-slim, 2-7-slim, 2-slim, 2.7-7.3.23-slim-trixie, 2.7-7.3-slim-trixie, 2.7-7-slim-trixie, 2.7-slim-trixie, 2-7.3.23-slim-trixie, 2-7.3-slim-trixie, 2-7-slim-trixie, 2-slim-trixie
 Architectures: amd64, arm64v8, i386
-GitCommit: 2f108c64176189af6bcc930adfd6052ad98201a2
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 2.7/slim-trixie
 
 Tags: 2.7-7.3.23-bookworm, 2.7-7.3-bookworm, 2.7-7-bookworm, 2.7-bookworm, 2-7.3.23-bookworm, 2-7.3-bookworm, 2-7-bookworm, 2-bookworm
 Architectures: amd64, arm64v8, i386
-GitCommit: 2f108c64176189af6bcc930adfd6052ad98201a2
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 2.7/bookworm
 
 Tags: 2.7-7.3.23-slim-bookworm, 2.7-7.3-slim-bookworm, 2.7-7-slim-bookworm, 2.7-slim-bookworm, 2-7.3.23-slim-bookworm, 2-7.3-slim-bookworm, 2-7-slim-bookworm, 2-slim-bookworm
 Architectures: amd64, arm64v8, i386
-GitCommit: 2f108c64176189af6bcc930adfd6052ad98201a2
+GitCommit: f119e30c9f046b86a58504b5f1b47c72ab461e05
 Directory: 2.7/slim-bookworm
 
 Tags: 2.7-7.3.23-windowsservercore-ltsc2025, 2.7-7.3-windowsservercore-ltsc2025, 2.7-7-windowsservercore-ltsc2025, 2.7-windowsservercore-ltsc2025, 2-7.3.23-windowsservercore-ltsc2025, 2-7.3-windowsservercore-ltsc2025, 2-7-windowsservercore-ltsc2025, 2-windowsservercore-ltsc2025
