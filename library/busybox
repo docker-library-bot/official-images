@@ -1,9 +1,9 @@
-# this file is generated via https://github.com/docker-library/busybox/blob/e7bf068f570ae5a3236675c3c6b22a576773e833/generate-stackbrew-library.sh
+# this file is generated via https://github.com/docker-library/busybox/blob/9c2087811429374737832a4c936fc411c1b4a22b/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
 GitRepo: https://github.com/docker-library/busybox.git
-GitCommit: e7bf068f570ae5a3236675c3c6b22a576773e833
+GitCommit: 9c2087811429374737832a4c936fc411c1b4a22b
 Builder: oci-import
 File: index.json
 # https://github.com/docker-library/busybox/tree/dist-amd64
