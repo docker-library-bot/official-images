@@ -6,7 +6,7 @@ GitRepo: https://github.com/docker-library/mysql.git
 
 Tags: 26.7.0, 26.7, 26, innovation, latest, 26.7.0-oraclelinux9, 26.7-oraclelinux9, 26-oraclelinux9, innovation-oraclelinux9, oraclelinux9, 26.7.0-oracle, 26.7-oracle, 26-oracle, innovation-oracle, oracle
 Architectures: amd64, arm64v8
-GitCommit: 288e46ff450920468d5a1fcb618d359068704c3d
+GitCommit: 2f988f198f35d25b1454fa2504a0e4c348100549
 Directory: innovation
 File: Dockerfile.oracle
 
