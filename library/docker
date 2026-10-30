@@ -12,7 +12,7 @@ Directory: 29/cli
 
 Tags: 29.9.2-dind, 29.9-dind, 29-dind, dind, 29.9.2-dind-alpine3.24, 29.9.2, 29.9, 29, latest, 29.9.2-alpine3.24
 Architectures: amd64, arm32v6, arm32v7, arm64v8
-GitCommit: 29938079fb10e4c1a5e417cf74a84b6f845443e2
+GitCommit: 21c9665d5c333b4811449c1ac7331579c4f526d9
 Directory: 29/dind
 
 Tags: 29.9.2-dind-rootless, 29.9-dind-rootless, 29-dind-rootless, dind-rootless
