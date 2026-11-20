@@ -7,7 +7,7 @@ Builder: buildkit
 
 Tags: 29.10.0-cli, 29.10-cli, 29-cli, cli, 29.10.0-cli-alpine3.24
 Architectures: amd64, arm32v6, arm32v7, arm64v8, ppc64le, s390x
-GitCommit: 70cd6b52204a3bf037510cb750e099c34b081bd4
+GitCommit: eae4490118181dba16df073a3ed8fb5911b09519
 Directory: 29/cli
 
 Tags: 29.10.0-dind, 29.10-dind, 29-dind, dind, 29.10.0-dind-alpine3.24, 29.10.0, 29.10, 29, latest, 29.10.0-alpine3.24
@@ -23,7 +23,7 @@ Directory: 29/dind-rootless
 Tags: 29.10.0-windowsservercore-ltsc2025, 29.10-windowsservercore-ltsc2025, 29-windowsservercore-ltsc2025, windowsservercore-ltsc2025
 SharedTags: 29.10.0-windowsservercore, 29.10-windowsservercore, 29-windowsservercore, windowsservercore
 Architectures: windows-amd64
-GitCommit: 70cd6b52204a3bf037510cb750e099c34b081bd4
+GitCommit: eae4490118181dba16df073a3ed8fb5911b09519
 Directory: 29/windows/windowsservercore-ltsc2025
 Constraints: windowsservercore-ltsc2025
 Builder: classic
@@ -31,7 +31,7 @@ Builder: classic
 Tags: 29.10.0-windowsservercore-ltsc2022, 29.10-windowsservercore-ltsc2022, 29-windowsservercore-ltsc2022, windowsservercore-ltsc2022
 SharedTags: 29.10.0-windowsservercore, 29.10-windowsservercore, 29-windowsservercore, windowsservercore
 Architectures: windows-amd64
-GitCommit: 70cd6b52204a3bf037510cb750e099c34b081bd4
+GitCommit: eae4490118181dba16df073a3ed8fb5911b09519
 Directory: 29/windows/windowsservercore-ltsc2022
 Constraints: windowsservercore-ltsc2022
 Builder: classic
